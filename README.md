@@ -2,8 +2,8 @@
 
 Code accompanying the paper:
 
-**Collective Kernel EFT for Pre-activation ResNets: Exact Block Law and Finite Validity Window of $G$-only Closure**
-Hidetoshi Kawase and Toshihiro Ota, arXiv:2604.XXXXX (2026)
+**Collective Kernel EFT for Pre-activation ResNets**
+Hidetoshi Kawase and Toshihiro Ota, [arXiv:2604.15742](https://arxiv.org/abs/2604.15742) (2026)
 
 `resnet_eft` implements the collective-kernel EFT for finite-width pre-activation ResNets at initialization.
 
@@ -82,9 +82,9 @@ print(state.get_physical_K1())    # K_eff / n at depth L
 
 ```bibtex
 @article{kawase2026resnet,
-  title={Collective Kernel {EFT} for Pre-activation {ResNets}: Exact Block Law and Finite Validity Window of {G}-only Closure},
+  title={Collective Kernel {EFT} for Pre-activation {ResNets}},
   author={Kawase, Hidetoshi and Ota, Toshihiro},
-  journal={arXiv preprint arXiv:2604.XXXXX},
+  journal={arXiv preprint arXiv:2604.15742},
   year={2026}
 }
 ```
