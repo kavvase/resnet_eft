@@ -1,10 +1,7 @@
-# resnet-eft
+# Collective Kernel EFT for Pre-activation ResNets
 
-Code accompanying the paper:
-
-**Collective Kernel EFT for Pre-activation ResNets**
-
-Hidetoshi Kawase and Toshihiro Ota, [arXiv:2604.15742](https://arxiv.org/abs/2604.15742) (2026)
+Code accompanying the paper by Hidetoshi Kawase and Toshihiro Ota,
+[arXiv:2604.15742](https://arxiv.org/abs/2604.15742) (2026)
 
 `resnet_eft` implements the collective-kernel EFT for finite-width pre-activation ResNets at initialization.
 
